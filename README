@@ -1,4 +1,4 @@
 Example on ListView.
 
-1. ListView with Action mode (using MultiChoiceModeListener)
-2. ListView with SingleChoice mode and custome single_choice_layout
+1. ListView with Action mode (using MultiChoiceModeListener) https://github.com/MuhammadHewedy/PlayingWithListView/blob/master/ActionModeListView/src/main/java/com/myapps/actionmodelistview/ListViewWithActionModeActivity.java
+2. ListView with SingleChoice mode and custome single_choice_layout https://github.com/MuhammadHewedy/PlayingWithListView/blob/master/ActionModeListView/src/main/java/com/myapps/actionmodelistview/ListViewSingleCustomActivity.java
